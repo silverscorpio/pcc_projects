@@ -33,6 +33,9 @@ INSTALLED_APPS = [
     'web_apps',
     'users',
 
+    # third-party apps
+    'bootstrap4',
+
     # default
     'django.contrib.admin',
     'django.contrib.auth',
